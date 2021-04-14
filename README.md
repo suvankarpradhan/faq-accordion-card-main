@@ -31,8 +31,8 @@ see screenshot folder.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/suvankarpradhan/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://suvankarpradhan.github.io/faq-accordion-card-main/)
+- Solution URL: [Click here](https://github.com/suvankarpradhan/faq-accordion-card-main)
+- Live Site URL: [Click here](https://suvankarpradhan.github.io/faq-accordion-card-main/)
 
 ## My process
 
@@ -51,9 +51,3 @@ Learn about CSS ('grid','clip','overflow','position' in CSS). By doing this chal
 ## Author
 
 - Frontend Mentor - [@suvankarpradhan](https://www.frontendmentor.io/profile/suvankarpradhan)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
