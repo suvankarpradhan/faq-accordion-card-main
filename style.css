@@ -110,7 +110,7 @@ h1 {
   .img1 {
     width: 62%;
     transform: translate(30%, -95%);
-    clip: rect(111px, 196px, 193px, 0px);
+    clip: rect(111px, auto, auto, 0px);
   }
   .img2 {
     width: 62%;
