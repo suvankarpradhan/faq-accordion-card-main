@@ -31,8 +31,8 @@ see screenshot folder.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/suvankarpradhan/faq-accordion-card-main)
-- Live Site URL: [Add live site URL here](https://suvankarpradhan.github.io/faq-accordion-card-main/)
+- Solution URL: [Click here](https://github.com/suvankarpradhan/faq-accordion-card-main)
+- Live Site URL: [Click here](https://suvankarpradhan.github.io/faq-accordion-card-main/)
 
 ## My process
 
