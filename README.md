@@ -27,7 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-see screenshot folder.
+![desktop-img](./screenshot/screencapture-127-0-0-1-5500-2021-04-14-12_02_46.jpg)
+![mobile-img](./screenshot/screencapture-127-0-0-1-5500-2021-04-14-12_05_29.jpg)
 
 ### Links
 
