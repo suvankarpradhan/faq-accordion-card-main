@@ -90,7 +90,9 @@ h1 {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media (max-width: 400px) {
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
   .container {
     margin: 45% 5% 20% !important;
     padding-top: 20%;
